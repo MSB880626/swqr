@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "swqr: downdating-free sliding- and expanding-window least squares"
+authors:
+  - family-names: "Sánchez Brito"
+    given-names: "Miguel"
+    affiliation: "Escuela Superior de Cómputo, Instituto Politécnico Nacional, Mexico City, Mexico"
+version: "1.0.0"
+date-released: "2026-11-03"
+license: MIT
+repository-code: "https://github.com/USUARIO/swqr"
